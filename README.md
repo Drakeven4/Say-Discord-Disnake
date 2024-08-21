@@ -1,4 +1,4 @@
-# Sending-a-message-on-behalf-of-a-bot-Discord
+# Say-Discord-Disnake
 ENG:
 More details:
 This script for Discord bot in Python and Disnake library.
